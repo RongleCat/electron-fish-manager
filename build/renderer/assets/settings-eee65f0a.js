@@ -1,0 +1,1 @@
+import{e as t,c as n,g as o,u as r,o as a,a4 as c}from"./index-6f2dfa99.js";const u={class:"page h-screen w-screen"},m=t({__name:"settings",setup(p){const s=c();return(_,e)=>(a(),n("div",u,[o("button",{onClick:e[0]||(e[0]=i=>r(s).push("/"))},"首页")]))}});export{m as default};
